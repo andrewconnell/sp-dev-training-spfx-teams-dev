@@ -2,9 +2,9 @@
   "@microsoft/generator-sharepoint": {
     "isCreatingSolution": true,
     "environment": "spo",
-    "version": "1.10.0",
+    "version": "1.11.0",
     "libraryName": "spfxteams",
-    "libraryId": "c21b33ec-e95d-4b09-bbca-e80b0c07d929",
+    "libraryId": "8d5540be-38d9-43f3-935a-b370ba125690",
     "packageManager": "npm",
     "isDomainIsolated": false,
     "componentType": "webpart"
